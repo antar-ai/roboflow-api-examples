@@ -2,11 +2,11 @@
 
 ## Overview
 
-This project focuses on creating a simple Rock-Paper-Scissors (RPS) game with image recognition to detect the hand gestures of players and determine the winner. The goal is to provide a fun and interactive way to play the classic game using a computer vision-based approach.
+This project focuses on creating a simple Rock-Paper-Scissors (RPS) game with image recognition to detect the signs of players and determine the winner. The goal is to provide a fun and interactive way to play the classic game using a computer vision-based approach.
 
 ## Features
 
-- **Hand Gesture Detection:** The system uses image recognition to detect the hand gestures of players as they make their choices (Rock, Paper, or Scissors).
+- **Sign Detection:** The system uses image recognition to detect the sign of players as they make their choices (Rock, Paper, or Scissors).
 
 - **Real-Time Processing:** The application processes the video stream in real-time, allowing players to make their choices seamlessly.
 
