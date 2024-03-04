@@ -11,7 +11,7 @@ import os
 input_video_file = "sps.mp4"
 output_video_file = "sps_ot.mp4"
 
-api_key = "kBlmz1QA4qLI37lVBu6c"
+api_key = ""
 version = "11"
 model = "rock-paper-scissors-sxsw"
 
